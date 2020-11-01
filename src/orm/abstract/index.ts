@@ -1,0 +1,1 @@
+export { AbstractBaseEntity } from './AbstractBaseEntity';
